@@ -1,0 +1,46 @@
+.headers {
+    display: flex;
+    background-color: lightblue;
+    justify-content: center;
+
+    
+}
+
+.headers h1{
+    color:darkblue;
+    text-align: center;
+    
+
+}
+.mainbody{
+display: flex;
+border-radius: 10px;
+border-style: dashed;
+border-color: black;
+font-size: 20px;
+background-color: bisque;
+
+}
+
+.image{
+display: flex;
+border-radius: 10px;
+border-style: dashed;
+border-color: black;
+display: block;
+margin-left: auto;
+margin-right: auto;
+justify-content: center;
+align-items: center;
+
+
+
+}
+
+
+.image div{
+    
+    width: 100px;
+    height: 100px;
+
+}
