@@ -20,12 +20,13 @@ background-color: bisque;
 }
 
 .image{
-display: flex;
-border-radius: 10px;
-border-style: dashed;
+border-radius: 50%;
+border-style: dotted;
 border-color: black;
-justify-content: center;
-text-align: center;
+width: 400px;
+height:280px;
+
+
 }
 
 .links {
